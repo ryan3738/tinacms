@@ -1,5 +1,11 @@
 # tinacms
 
+## 0.56.4
+
+### Patch Changes
+
+- 891623c7c: Adds support for List and Update to TinaAdmin
+
 ## 0.56.3
 
 ### Patch Changes

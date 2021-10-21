@@ -1,5 +1,15 @@
 # tina-cloud-starter
 
+## 0.2.4
+
+### Patch Changes
+
+- 891623c7c: Adds support for List and Update to TinaAdmin
+- Updated dependencies [891623c7c]
+  - tinacms@0.56.4
+  - next-tinacms-cloudinary@3.3.1
+  - react-tinacms-editor@0.52.1
+
 ## 0.2.3
 
 ### Patch Changes

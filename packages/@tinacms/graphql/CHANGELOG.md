@@ -1,5 +1,11 @@
 # tina-graphql
 
+## 0.55.3
+
+### Patch Changes
+
+- 891623c7c: Adds support for List and Update to TinaAdmin
+
 ## 0.55.2
 
 ### Patch Changes
